@@ -1,0 +1,1 @@
+This is Lukes first Git project!
